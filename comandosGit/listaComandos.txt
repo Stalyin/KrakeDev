@@ -1,0 +1,2 @@
+git clone:<Comando utilizado para clonar (copiar, descargar) un repositorio remoto desde un servicio como GitHub a nuestra maquina Local>
+ 
